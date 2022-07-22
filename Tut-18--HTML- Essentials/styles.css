@@ -1,0 +1,11 @@
+ * {
+   background-color: rgb(37, 201, 160);
+ }
+
+ button {
+   background-color: rgb(128, 0, 0);
+   color: aquamarine;
+   border: black dashed 5px;
+   padding: 5px 60px;
+   border-radius: 17px;
+ }
